@@ -1,0 +1,11 @@
+{
+    "producer": "any",
+    "country": "fr",
+    "varietals": "cabernet sauvignon",
+    "region": "pauillac",
+    "color": "red",
+    "sugar": "dry",
+    "price": 500,
+    "popularity": 0.5,
+    "relevance_u": 0.5
+}
